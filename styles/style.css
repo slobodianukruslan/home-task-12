@@ -36,8 +36,9 @@ header {
 }
 
 .logo__link:hover {
-	color: #2F5DF3;
+	color: #ff6033;
 	transition: 0.5s;
+	text-shadow: 0px 0px 10px #FEBBC1;
 }
 
 .menu__nav {
