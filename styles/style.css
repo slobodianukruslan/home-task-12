@@ -436,7 +436,7 @@ header {
 
 /*____ SECTION  BLOG ____*/
 
-.blog {
+#BLOG {
 	background-color: #b07cf7;
 	padding: 100px 0 120px;
 	color: #fff;
