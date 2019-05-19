@@ -12,7 +12,7 @@ header {
 	background: url(../img/bg/bg_header.jpg) no-repeat top center / cover;
 	padding-bottom: 400px;	
 	position: relative;	
-	/*height: 100vh;*/
+	height: 100vh;
 }
 
 .container {
@@ -290,6 +290,7 @@ header {
 }
 
 .grid__img {
+	display: block;
 	width: 100%;	
 }
 
