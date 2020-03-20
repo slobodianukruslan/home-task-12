@@ -1,13 +1,11 @@
 .grid > [class*="width-"]{
     float: left;
-    padding-left: 30px; 
-    /*border: 1px solid #000;   */
+    padding-left: 30px;  
 }
 
 .grid{
     margin-left: -30px;
-    overflow: auto;
-    /*border: 1px solid #000; */
+    overflow: hidden;
 }
 
 .grid + .grid {
@@ -16,7 +14,6 @@
 
 [class*="width-"] {
     width: 100%; 
-    /*border: 1px solid #000;    */
 }
 
 .width-1-1{
